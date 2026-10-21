@@ -1,0 +1,7 @@
+alpaca-py
+sqlalchemy
+apscheduler
+sendgrid
+matplotlib
+python-dotenv
+tzdata
